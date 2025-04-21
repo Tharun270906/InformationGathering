@@ -1,4 +1,4 @@
-![whatweb(ethical)](https://github.com/user-attachments/assets/a6779f19-ddb1-4dae-b97a-9e9016d19ed0)# InformationGathering
+
 Information Gathering Techiques
 
 # To perform information gathering techniques
